@@ -1,0 +1,11 @@
+element app: -//-
+
+element app1: -//-
+
+element app2: -//-
+
+element app3: Try typing "app3.seen = false" in the console. The message will disappear.
+
+element app4: Type "app4.todos.push ({text: 'Profit'}): in the console. 
+              You will see that a new item is added to the list.
+
